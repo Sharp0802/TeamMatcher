@@ -70,8 +70,6 @@ Increasing the count of result teams causes increasing error of result.
 
 - dotnet SDK 8.0.0 or higher
 
-See also: [Native AOT deployment](https://learn.microsoft.com/dotnet/core/deploying/native-aot/)
-
 ### COMPILING
 
 ```shell

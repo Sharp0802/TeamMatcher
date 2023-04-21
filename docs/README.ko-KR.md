@@ -72,8 +72,6 @@ CSV헤더의 순서는 작업에 영향을 주지 않는다.
 
 - dotnet SDK 8.0.0 또는 상위 버전
 
-자세한 사항은 다음을 참고하라: [Native AOT deployment](https://learn.microsoft.com/dotnet/core/deploying/native-aot/)
-
 ### 컴파일
 
 ```shell
