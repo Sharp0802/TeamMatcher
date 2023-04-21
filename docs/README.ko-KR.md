@@ -85,5 +85,5 @@ dotnet publish -c Release -o publish
 
 ```shell
 cd publish
-teammatch [option]...
+teammatcher [option]...
 ```

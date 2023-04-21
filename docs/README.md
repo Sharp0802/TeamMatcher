@@ -83,5 +83,5 @@ Then, you can run `teammatcher` with these instructions:
 
 ```shell
 cd publish
-teammatch [option]...
+teammatcher [option]...
 ```
