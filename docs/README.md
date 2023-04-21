@@ -1,5 +1,11 @@
 # TeamMatcher
 
+![](https://img.shields.io/tokei/lines/github/Sharp0802/TeamMatcher)
+![](https://img.shields.io/github/license/sharp0802/TeamMatcher)
+![](https://img.shields.io/github/release-date-pre/sharp0802/TeamMatcher)
+![](https://img.shields.io/github/languages/top/sharp0802/TeamMatcher)
+![](https://img.shields.io/github/languages/count/sharp0802/TeamMatcher)
+
 Language: [English](README.md), [한국어](README.ko-KR.md)
 
 A cross-platform stable heuristic team-matching program, written in C#.

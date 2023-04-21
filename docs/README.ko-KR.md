@@ -1,5 +1,11 @@
 # TeamMatcher
 
+![](https://img.shields.io/tokei/lines/github/Sharp0802/TeamMatcher)
+![](https://img.shields.io/github/license/sharp0802/TeamMatcher)
+![](https://img.shields.io/github/release-date-pre/sharp0802/TeamMatcher)
+![](https://img.shields.io/github/languages/top/sharp0802/TeamMatcher)
+![](https://img.shields.io/github/languages/count/sharp0802/TeamMatcher)
+
 언어: [English](README.md), [한국어](README.ko-KR.md)
 
 C#으로 작성된, 휴리스틱한 팀 매칭 프로그램.
