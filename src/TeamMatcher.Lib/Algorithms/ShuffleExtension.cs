@@ -21,7 +21,7 @@ public static class ShuffleExtension
     }
         
     
-    internal static TItem[][] StableShuffleInternal<TItem, TValue>(
+    public static TItem[][] StableShuffleInternal<TItem, TValue>(
         this IEnumerable<TItem> items, 
         int cBlock, 
         Func<TItem, TValue> keySelector)
