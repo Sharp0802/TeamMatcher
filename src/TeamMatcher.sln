@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMatcher.CLI", "TeamMatc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMatcher.Lib", "TeamMatcher.Lib\TeamMatcher.Lib.csproj", "{51754F98-2A77-47A8-B53F-288E47DDCCA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMatcher.Web", "TeamMatcher.Web\TeamMatcher.Web.csproj", "{F51FCBBA-D434-4EE2-8BCB-6B98E026D577}"
+EndProject
 Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{AA97779E-2484-4F41-94CA-6429D29C942A}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -16,6 +18,10 @@ Global
 		{51754F98-2A77-47A8-B53F-288E47DDCCA0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{51754F98-2A77-47A8-B53F-288E47DDCCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{51754F98-2A77-47A8-B53F-288E47DDCCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51FCBBA-D434-4EE2-8BCB-6B98E026D577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51FCBBA-D434-4EE2-8BCB-6B98E026D577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51FCBBA-D434-4EE2-8BCB-6B98E026D577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51FCBBA-D434-4EE2-8BCB-6B98E026D577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Release|Any CPU = Release|Any CPU
