@@ -74,7 +74,7 @@ root.SetHandler(static (file, team) =>
 
     var dict = records!.StableShuffle(team, p => p.Kind, p => p.Value);
     foreach (var i in dict)
-        Print(i?.ToArray() ?? Array.Empty<Person>());
+        Print(i.ToArray());
     
 }, file, team);
 return root.Invoke(args);
