@@ -59,7 +59,7 @@ internal class AggressiveSwappingShuffle<TItem, TValue> where TValue : struct, I
         foreach (var diffP in diffV)
         {
             if (TValue.Abs(diff - tDiff) < TValue.Abs(diff - (tDiff + diffP.Value)))
-                break;
+                continue;
             tDiff += diffP.Value;
             cShfl++;
         }
