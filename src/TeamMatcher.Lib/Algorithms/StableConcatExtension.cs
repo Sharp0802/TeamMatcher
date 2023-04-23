@@ -1,6 +1,6 @@
 namespace TeamMatcher.Lib.Algorithms;
 
-public static class StableConcatExtension
+internal static class StableConcatExtension
 {
     internal static IEnumerable<IEnumerable<TItem>?> StableConcat<TItem>(
         this IEnumerable<IEnumerable<TItem>?> self, 
